@@ -1,4 +1,4 @@
-Studying Java, Spring, JPA etc.
+Studying Java, Spring and etc.
 
 <!---
 biryuzabear/biryuzabear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
